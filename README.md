@@ -1,4 +1,4 @@
-# Retail Sales Analysis (SQL Project)
+# Retail Sales Analysis 
 
 ## Project Overview
 This project focuses on analyzing retail sales data using SQL to derive meaningful business insights. The dataset includes transaction-level information such as customer demographics, product categories, sales values, and timestamps.
